@@ -46,10 +46,10 @@
 
 | Milestone             | Expected Completion Date  |
 | --------------------- | ------------------------- |
-| Project Setup         | 2 days (01/03) ~ (03/03)  |
-| Backend Development   | 1 week (04/03) ~ (12/03)  |
-| Frontend Development  | 2 weeks (12/03) ~ (25/03) |
-| Integration & Testing | 4 days (26/03) ~ (30/03)  |
-| Final Deployment      | 1 days (31/03)            |
+| Project Setup         | 2 days (10/04) ~ (13/04)  |
+| Backend Development   | 1 week (14/04) ~ (22/04)  |
+| Frontend Development  | 2 weeks (22/04) ~ (05/05) |
+| Integration & Testing | 4 days (06/05) ~ (10/05)  |
+| Final Deployment      | 1 days (11/05)            |
 
 ## **7. Additional Notes**
